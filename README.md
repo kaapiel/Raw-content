@@ -30,7 +30,10 @@ Add the library to your Android project, then check out the examples below!
 
 <h2 id="examples">Examples :eyes:</h2>
 
-[![ScreenShot](https://github.com/PhilJay/MPAndroidChart/blob/master/design/video_thumbnail.png)](https://www.youtube.com/watch?v=ufaK_Hd6BpI)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Automation-Python/app.png)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Automation-Python/app.png)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Automation-Python/app.png)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Automation-Python/app.png)
 
 <br/>
 
