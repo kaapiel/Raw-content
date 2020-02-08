@@ -84,11 +84,7 @@ This repository's issue tracker is only for bugs and feature requests. The maint
 
 *PayPal*
 
-- [*Donate 5 $*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7G52RA87ED8NY): Thank's for creating this project, here's a coffee (or some beer) for you!
-- [*Donate 10 $*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4C9TPE67F5PUQ): Wow, I am stunned. Let me take you to the movies!
-- [*Donate 15 $*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKMPTFMVK3JMC): I really appreciate your work, let's grab some lunch!
-- [*Donate 25 $*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H9JA4QX7UHXCY): That's some awesome stuff you did right there, dinner is on me!
-- Or you can also [*choose what you want to donate*](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EGBENAC5XBCKS), all donations are awesome!
+- Do you ever though about paying a coffee, lunch or dinner for maintaining the project? [*So please click on this link *](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gabriel_aguido@hotmail.com&lc=US&item_name=Donation+to+PROJECT+Maintenance&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted), all donations are awesome!
 
 <br/>
 
@@ -117,3 +113,4 @@ These people rock!
 - [Daniel Marques](https://www.linkedin.com/in/dmarques) - Who helped me and encouraged me to take steps further
 - [Rodrigo Franchi](https://www.linkedin.com/in/rodrigo-franchi-817b9339) - Who gave lots of ideas and several ways to solve problems
 - [Rafael Barriento](https://www.linkedin.com/in/rafael-barriento-de-goes-8014b1b1) - Who gave me tons of tech insights to create innovative solutions
+- [Diogo Julião](https://www.linkedin.com/in/diogo-oliveira-4b7a96128) - Who encourage me to whatever ideia i had as an outstading one
