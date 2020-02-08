@@ -92,18 +92,6 @@ This repository's issue tracker is only for bugs and feature requests. The maint
 
 <br/>
 
-<h2 id="social">Social Media :fire:</h2>
-
-If you like this library, please tell others about it :two_hearts: :two_hearts:
-
-[![Share on Twitter](https://github.com/PhilJay/MPAndroidChart/blob/master/design/twitter_icon.png)](https://twitter.com/intent/tweet?text=Check%20out%20the%20awesome%20MPAndroidChart%20library%20on%20Github:%20https://github.com/PhilJay/MPAndroidChart)
-
-<br/>
-
-<h2 id="more-examples">More Examples :+1:</h2>
-
-<br/>
-
 <h1 id="license">License :page_facing_up:</h1>
 
 Copyright 2019 Gabriel Aguido Fraga
@@ -126,8 +114,6 @@ limitations under the License.
 
 These people rock!
 
-- [Daniel Marques](https://github.com/danielgindi) - Daniel Gindi
-- [Rodrigo Franchi](https://github.com/mikegr) - Michael Greifeneder
-- [Rafael Barriento](https://github.com/tonypatino-monoclesociety) - Tony
-- [almic](https://github.com/almic) - Mick A.
-- [jitpack.io](https://github.com/jitpack-io) - JitPack.io
+- [Daniel Marques](https://www.linkedin.com/in/dmarques) - Who helped me and encouraged me to take steps further
+- [Rodrigo Franchi](https://www.linkedin.com/in/rodrigo-franchi-817b9339) - Who gave lots of ideas and several ways to solve problems
+- [Rafael Barriento](https://www.linkedin.com/in/rafael-barriento-de-goes-8014b1b1) - Who gave me tons of tech insights to create innovative solutions
