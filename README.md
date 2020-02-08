@@ -11,14 +11,11 @@
 
 A powerful & easy to use library for Android
 
-[*APP*](https://github.com/danielgindi/Charts) is the iOS version of this library
+[*APP*](https://github.com/kaapiel) is the iOS version of this library
 
 ## Table of Contents
 1. [Quick Start](#quick-start)
-    1. [Gradle](#gradle-setup)
-    1. [Maven](#maven-setup)
-1. [Documentation](#documentation)
-1. [Examples](#examples)
+1. [Example usage] (#examples)
 1. [Questions](#report)
 1. [Donate](#donate)
 1. [Social Media](#social)
@@ -29,33 +26,9 @@ A powerful & easy to use library for Android
 <h2 id="quick-start">Quick Start :chart_with_upwards_trend:</h2>
 Add the library to your Android project, then check out the examples below!
 
-### Gradle Setup
-
-gradle
-repositories {
-    maven { url 'https://jitpack.io' }
-}
-
 <br/>
-
-### Maven Setup
-
-<!-- <dependencies> section of pom.xml -->
-<dependency>
-    <groupId>com.github.PhilJay</groupId>
-    <artifactId>MPAndroidChart</artifactId>
-    <version>v3.1.0</version>
-</dependency>
-
-<br/>
-
-<h2 id="documentation">Documentation :notebook_with_decorative_cover:</h2>
-
-See the [*documentation*](https://weeklycoding.com/mpandroidchart/) for examples and general use of MPAndroidChart.
 
 <h2 id="examples">Examples :eyes:</h2>
-
-Download the [MPAndroidChart Example App](https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample) or look at the [source code](https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample).
 
 [![ScreenShot](https://github.com/PhilJay/MPAndroidChart/blob/master/design/video_thumbnail.png)](https://www.youtube.com/watch?v=ufaK_Hd6BpI)
 
@@ -63,7 +36,7 @@ Download the [MPAndroidChart Example App](https://play.google.com/store/apps/det
 
 <h2 id="report">Questions & Issues :thinking:</h2>
 
-This repository's issue tracker is only for bugs and feature requests. The maintainers ask that you refrain from asking questions about how to use MPAndroidChart through the issue tracker.
+This repository's issue tracker is only for bugs and feature requests.  
 
 <br/>
 
