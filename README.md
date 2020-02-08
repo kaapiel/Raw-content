@@ -18,8 +18,6 @@ A powerful & easy to use library for Android
 1. [Example usage](#examples)
 1. [Questions](#report)
 1. [Donate](#donate)
-1. [Social Media](#social)
-1. [More Examples](#more-examples)
 1. [License](#licence)
 1. [Creators](#creators)
 
