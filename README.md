@@ -71,20 +71,9 @@ This repository's issue tracker is only for bugs and feature requests. The maint
 
 *This project needs you!* If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, *feel free to donate*. Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
-*My Bitcoin Wallet* (Bitcoin only)
-
-1G8G6tqQ3oh38BvDH3xq8o6gGVMvBTkcUg
-
-*My Ethereum Wallet* (Ethereum only)
-
-0x04ef098bf9f91871391363e3caf791afa3adc39b
-
-[*Lightning Network (tippin.me)*](https://tippin.me/@PhilippJahoda)
-
-
 *PayPal*
 
-- Do you ever though about paying a coffee, lunch or dinner for maintaining the project? [*So please click on this link *](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gabriel_aguido@hotmail.com&lc=US&item_name=Donation+to+PROJECT+Maintenance&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted), all donations are awesome!
+- Do you ever though about paying a coffee, lunch or dinner for maintaining the project? [*So please click on this link*](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gabriel_aguido@hotmail.com&lc=US&item_name=Donation+to+PROJECT+Maintenance&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted), all donations are awesome!
 
 <br/>
 
