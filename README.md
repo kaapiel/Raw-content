@@ -15,7 +15,7 @@ A powerful & easy to use library for Android
 
 ## Table of Contents
 1. [Quick Start](#quick-start)
-1. [Example usage] (#examples)
+1. [Example usage](#examples)
 1. [Questions](#report)
 1. [Donate](#donate)
 1. [Social Media](#social)
