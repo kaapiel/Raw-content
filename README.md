@@ -8,10 +8,7 @@
 ![CircleCI](https://img.shields.io/circleci/build/github/kaapiel/ALMIntegration-Java/master)
 [![API](https://img.shields.io/badge/API-26%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=26)
 
-
 A powerful & easy to use library for Android
-
-[*APP*](https://github.com/kaapiel) is the iOS version of this library
 
 ## Table of Contents
 1. [Quick Start](#quick-start)
